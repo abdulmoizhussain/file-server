@@ -2,7 +2,7 @@
 A very simple file server, to serve the files on local network without having to install nodejs.
 
 
-Just download and launch the .exe file from [here][1] and it will start the file server on port 99, on the directory in which you placed this EXE file. It will not require NodeJS.
+Just download and launch the .exe file from [here][1] and it will start the file server on port 99, with all the files in the directory in which you placed this EXE. It will not require NodeJS.
 
 You can also define your own port as the first command line argument, like:
 `>file-server-x64-v1.0.exe 8080`
