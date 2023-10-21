@@ -1,5 +1,5 @@
 # file-server
-A very simple file server, to serve the files on local network without having to install nodejs.
+A very simple file server, to serve static files on local network without having to install nodejs.
 
 
 Just download and launch the .exe file from [here][1] and it will start the file server on port 99, with all the files in the directory in which you placed this EXE. It will not require NodeJS.
